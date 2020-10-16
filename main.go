@@ -110,7 +110,7 @@ func MapInput(inputLenght int) (tweetSize int, maxIndexSize int) {
 		tweetSize++
 	}
 
-	return tweetSize, maxIndexSize
+	return
 }
 
 //PrintTweets print tweets on a tweet slice, from the last to the first part
